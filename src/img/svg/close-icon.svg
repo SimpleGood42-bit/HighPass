@@ -1,9 +1,0 @@
-<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<g class="close-circle" fill="#999">
-<circle id="Ellipse 18" cx="10" cy="10" r="10" fill="inherit"/>
-<g class="close-x" fill="#fff">
-<rect id="Rectangle 92" x="6.20715" y="5.5" width="12" height="1" transform="rotate(45 6.20715 5.5)" fill="inherit"/>
-<rect id="Rectangle 93" x="5.59143" y="13.9854" width="12" height="1" transform="rotate(-45 5.59143 13.9854)" fill="inherit"/>
-</g>
-</g>
-</svg>
